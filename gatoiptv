@@ -1,22 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="CANAL ABERTO",[COLOR red]//////////CANAIS ABERTOS//////////[/COLOR]
-http://23.23.1.1
-#EXTINF:-1 group-title="CANAL ABERTO",GLOBO MINAS
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/7112.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",GLOBO NORDESTE
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globonordeste_acf10f2c_6e71433dff27ebd81e1f30374f1a3cbca81b7990.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",GLOBO SP HD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_1012db86786ca369acb08b8bbb2b2115dc18df7b/playlist.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",GLOBO SP
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2276.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",GLOBO RJ
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_3ff4ea658e68efc6930dc5f69bf84e7796d5c017/playlist.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",GLOBO RJ HD
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/311
 #EXTINF:-1 group-title="CANAL ABERTO",SBT SP INTERIOR
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",SBT - TV ARATU
-https://cdn.jmvstream.com/live/hls/lv_5347/LV5347_oKO9R0jr5Y.m3u8
 #EXTINF:-1 group-title="CANAL ABERTO",SBT - TV JANGADEIRO
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1019809414_b216000_sleng.m3u8
 #EXTINF:-1 group-title="CANAL ABERTO",SBT PE SD
@@ -31,30 +15,8 @@ https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="CANAL ABERTO",SBT PI HD
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w155384117.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",SBT MA
-http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",SBT MA
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",SBT - MA | IMPERATRIZ
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",BAND SP
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",BAND MT
-https://video01.kshost.com.br/rbatv121/rbatv121/playlist.m3u8?wowzasessionid=117747045
-#EXTINF:-1 group-title="CANAL ABERTO",JOGO ABERTO
-http://evpp.mm.uol.com.br/geob_band/jogoaberto/chunklist_w1351196461.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",OS DONOS DA BOLA
-http://evpp.mm.uol.com.br/geob_band/donosdabola/chunklist_w167933638.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",BAND PA
-https://video01.kshost.com.br/rbatv121/rbatv121/playlist.m3u8?wowzasessionid=117747045
-#EXTINF:-1 group-title="CANAL ABERTO",RECORD SP
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b832512.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="CANAL ABERTO",RECORD SP HD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 group-title="CANAL ABERTO",RECORD ES
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?EDSONSOUSA_LIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV ACRITICA - RECORD AM
-https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8?sts=st=1557102741~exp=1557109341~acl=/*~hmac=7acb1281c68cd011d9ac192673fb62d8cc6571e547aaf3de0b5b60f6bfa39dbf
 #EXTINF:-1 group-title="CANAL ABERTO",TV VITORIA - RECORD
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="CANAL ABERTO",TVE BRASIL
@@ -63,18 +25,10 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?EDSONSOUSALIST
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="CANAL ABERTO",TV BRASIL 2
 http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/chunklist_b544768.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",REDE BRASIL®
-http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",REDE BRASIL 2®
-https://video-rvd-mg-gw-1.rnp.br/live/ocp(t(Fa31Q5v5a6o)r(TOqkzw)a(sUsQSA)p(d(Ujo)k(l0Q)m(BrnAj8kXXg3HL5dBmI18uQ)n(a(DcFp0w)s(as8)'a(ZDhYkg)s(NVY)'a(wa4eIw)s(Qno)'a(T1e2Kg)s(HdE)))s(s(a-M)b(bwOoi8AwPOAMw-IFMNhdfKMGshdcRD-xtSK_Qng9WI9xOnA1QqX1Nyk7CQSEjdP5FTVXGdwQx1pJzFOh7A)'s(_u8)b(Jb0RRot9FwcE9xQaXkl8BDE6V6j18Pqjyu4AF9UlmyA7MQJuDEGT6uLpQJfKI836mIgTAZgI8DA1H0BpFdm0cIFfd76yiwIpVCdP7ObK)'s(YSo)b(ant5f0eG))m(0))/25_index.m3u8
 #EXTINF:-1 group-title="CANAL ABERTO",TV MARAJOARA -  REDE BRASIL
 http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8?wowzasessionid=1233534265
 #EXTINF:-1 group-title="CANAL ABERTO",TV EDUCATIVA
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV GAZETA
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV GAZETA HD
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="CANAL ABERTO",TV GAZETA MA
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8?wowzasessionid=1554945197
 #EXTINF:-1 group-title="CANAL ABERTO",TV CULTURA HD
@@ -83,8 +37,6 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8?EDSON
 http://stream.tvitarare.com.br/hls/site/site_mid/index.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="CANAL ABERTO",TV CULTURA PARAÍBA HD
 http://stream.tvitarare.com.br/hls/site/site_hi/index.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV APERIPÊ
-http://cdn.comets.com.br/tvaperipe/aovivo/playlist.m3u8?s=1&sjwt=null
 #EXTINF:-1 group-title="CANAL ABERTO",TV CULTURA MG HD
 https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1109885564.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="CANAL ABERTO",TV CULTURA MG
@@ -101,18 +53,12 @@ http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?EDSONSOUSALIST
 http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="CANAL ABERTO",TV UP HD
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV ESCOLA
-https://slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b884736.m3u8
 #EXTINF:-1 group-title="CANAL ABERTO",MUNDO TV HD
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w3722288.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",JÓIAS VIP
-https://r1---sn-oxuapoxcg-wqve.googlevideo.com/videoplayback?expire=1562196656&ei=UOYcXbGGDcGDwgSO6JzIAQ&ip=177.75.16.72&id=o-APNCYsBNjlwln5C00DcYnThoyC_VEW0LsoD_t-FPgvOo&itag=22&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-oxuapoxcg-wqve%2Csn-bg0ezn7e&ms=au%2Crdu&mv=m&mvi=0&pl=24&initcwndbps=587500&mime=video%2Fmp4&ratebypass=yes&dur=28386.185&lmt=1560992248209468&mt=1562174945&fvip=1&c=WEB&txp=7316222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRAIgcP-YruJfUWeV_J6ZHzjq5vXlq0gR-V0be105Ht_KU8cCIDA0yPPBxULn1TZRPhxvS8ZPOJvjrISbjoZVGeWq6Nig&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIgdtp4fPFRXGEiaI9hWG_6fnqoJljszjfwyYuPHUde1jgCIQC-QRojLTxIaCD6CrjT5ddmWdNjqrReJ_yUiWucmSsYKQ%3D%3D
 #EXTINF:-1 group-title="CANAL ABERTO",NBR
 http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
 #EXTINF:-1 group-title="CANAL ABERTO",TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",TERRA VIVA HD
-https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1446458525.m3u8
 #EXTINF:-1 group-title="CANAL ABERTO",AGRO BRASIL
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="CANAL ABERTO",AGRO CANAL
@@ -121,8 +67,6 @@ https://5c49cd60dfe56.streamlock.net:6443/agrocanal/live/playlist.m3u8
 https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w1731673664.m3u8
 #EXTINF:-1 group-title="CANAL ABERTO",CANAL DO BOI
 https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",[COLOR red]//////////CANAIS PORTUGUAL//////////[/COLOR]
-http://23.23.1.10
 #EXTINF:-1 group-title="CANAIS PORTUGAL",RTP 1 (Copyright © 2019 - TeamBlue)
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",RTP 1 (Copyright © 2019 - TeamBlue)
@@ -151,8 +95,6 @@ http://85.244.70.140:7000/play/a02t
 http://85.244.70.140:7000/play/a02w
 #EXTINF:-1 group-title="CANAIS PORTUGAL",SPORT TV 4 (Copyright © 2019 - TeamBlue)
 http://85.244.70.140:7000/play/a02y
-#EXTINF:-1 group-title="CANAIS PORTUGAL",BARCA TV (Copyright © 2019 - TeamBlue)
-http://78.128.63.10:8000/play/a02e
 #EXTINF:-1 group-title="CANAIS PORTUGAL",REAL MADRID TV (Copyright © 2019 - TeamBlue)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",REAL MADRID TV (Copyright © 2019 - TeamBlue)
@@ -165,58 +107,22 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",REAL MADRID TV HD (Copyright © 2019 - TeamBlue)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",CHELSEA TV (Copyright © 2019 - TeamBlue)
-https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",CHELSEA TV (Copyright © 2019 - TeamBlue)
-https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/01.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",MUTV (Copyright © 2019 - TeamBlue)
-https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",MUTV (Copyright © 2019 - TeamBlue)
-https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/02.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",MUTV (Copyright © 2019 - TeamBlue)
-https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/01.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",DISNEY JUNIOR (Copyright © 2019 - TeamBlue)
 http://85.244.70.140:7000/play/a015
 #EXTINF:-1 group-title="CANAIS PORTUGAL",PANDA BIGGS (Copyright © 2019 - TeamBlue)
 http://85.244.70.140:7000/play/a013
 #EXTINF:-1 group-title="CANAIS PORTUGAL",NICKELODEON (Copyright © 2019 - TeamBlue)
 http://85.244.70.140:7000/play/a00o
-#EXTINF:-1 group-title="CANAIS PORTUGAL",FOX CRIME HD (Copyright © 2019 - TeamBlue)
-http://188.93.238.153:8000/play/a019/index.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",TVI REALITY (Copyright © 2019 - TeamBlue)
 http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",TVI REALITY (Copyright © 2019 - TeamBlue)
 http://85.244.70.140:7000/play/a00x
 #EXTINF:-1 group-title="CANAIS PORTUGAL",MTV BASE (Copyright © 2019 - TeamBlue)
 http://85.244.70.140:7000/play/a00t
-#EXTINF:-1 group-title="CANAIS PORTUGAL",MTV CLASSIC (Copyright © 2019 - TeamBlue)
-http://94.46.222.90:2107
-#EXTINF:-1 group-title="CANAIS PORTUGAL",MTV HITS (Copyright © 2019 - TeamBlue)
-http://91.231.219.145:80/tv_mtv_hits/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",MTV HITS (Copyright © 2019 - TeamBlue)
-http://94.46.222.90:2108
-#EXTINF:-1 group-title="CANAIS PORTUGAL",MTV LIVE (Copyright © 2019 - TeamBlue)
-https://persik.by/stream/4402/392667/10289.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",MTV ROCKS (Copyright © 2019 - TeamBlue)
-http://91.231.219.145:80/tv_mtv_rocks/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",MTV ROCKS (Copyright © 2019 - TeamBlue)
-http://94.46.222.90:2112
 #EXTINF:-1 group-title="CANAIS PORTUGAL",VH1 EUROPE (Copyright © 2019 - TeamBlue)
 http://85.244.70.140:7000/play/a012
-#EXTINF:-1 group-title="CANAIS PORTUGAL",VH1 EUROPE (Copyright © 2019 - TeamBlue)
-http://94.46.222.90:2113
-#EXTINF:-1 group-title="CANAIS PORTUGAL",MCM TOP (Copyright © 2019 - TeamBlue)
-http://ott-cdn.ucom.am/s49/04.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",MCM TOP (Copyright © 2019 - TeamBlue)
-http://ott-cdn.ucom.am/s49/index.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",MEZZO (Copyright © 2019 - TeamBlue)
-http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",TRACE TOCA (Copyright © 2019 - TeamBlue)
 http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TRACE TOCA (Copyright © 2019 - TeamBlue)
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TRACE GOSPEL (Copyright © 2019 - TeamBlue)
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",DJING CLASSIC (Copyright © 2019 - TeamBlue)
 https://www.djing.com/tv/classics.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",DJING DANCE FLOOR MUSIC (Copyright © 2019 - TeamBlue)
@@ -239,8 +145,6 @@ http://www.djing.com/tv/hits.m3u8_
 http://www.djing.com/tv/hits.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",DJING HOT HOT HOT (Copyright © 2019 - TeamBlue)
 https://www.djing.com/tv/h-01-fta.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING HOT HOT HOT (Copyright © 2019 - TeamBlue)
-http://www.djing.com/tv/buster-poindexter-his-bansheES of-blue-hot-hot-hot/index.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",DJING SUMMER VIBES (Copyright © 2019 - TeamBlue)
 https://www.djing.com/tv/s-28049-03-summer-vibes.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",DJING SUMMER VIBES (Copyright © 2019 - TeamBlue)
@@ -273,18 +177,8 @@ http://85.244.70.140:7000/play/a011
 http://85.244.70.140:7000/play/a00z
 #EXTINF:-1 group-title="CANAIS PORTUGAL",FTV (Copyright © 2019 - TeamBlue)
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",FTV (Copyright © 2019 - TeamBlue)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",BBC ENTERTAINMENT (Copyright © 2019 - TeamBlue)
 http://85.244.70.140:7000/play/a00u
-#EXTINF:-1 group-title="CANAIS PORTUGAL",CNN (Copyright © 2019 - TeamBlue)
-http://ott-cdn.ucom.am/s27/index.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",CNN (Copyright © 2019 - TeamBlue)
-http://188.93.238.153:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",CNN (Copyright © 2019 - TeamBlue)
-http://92.43.140.249/s27/04.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",EURONEWS (Copyright © 2019 - TeamBlue)
-http://188.93.238.153:8000/play/a05h/index.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",BLOOMBERG (Copyright © 2019 - TeamBlue)
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",BLOOMBERG (Copyright © 2019 - TeamBlue)
@@ -297,10 +191,6 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",SKY NEWS HD (Copyright © 2019 - TeamBlue)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",BBC WORLD NEWS (Copyright © 2019 - TeamBlue)
-http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",CNBC (Copyright © 2019 - TeamBlue)
-http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",CNBC (Copyright © 2019 - TeamBlue)
 http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",CBS (Copyright © 2019 - TeamBlue)
@@ -323,8 +213,6 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",RAI NEWS 24 (Copyright © 2019 - TeamBlue)
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RAI NEWS 24 (Copyright © 2019 - TeamBlue)
-https://1.ip2stream.icu/live/rai_news_24_hd/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",TVE 24h (Copyright © 2019 - TeamBlue)
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",TVE 24h (Copyright © 2019 - TeamBlue)
@@ -371,8 +259,6 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",TV5 MONDE (Copyright © 2019 - TeamBlue)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RAI 1 (Copyright © 2019 - TeamBlue)
-http://ott-cdn.ucom.am/s29/index.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",REDE TV! (Copyright © 2019 - TeamBlue)
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",REDE TV! (Copyright © 2019 - TeamBlue)
@@ -400,8 +286,6 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u
 #EXTINF:-1 group-title="CANAIS PORTUGAL",RUSSIA TODAY (Copyright © 2019 - TeamBlue)
 https://rt-uk.secure.footprint.net/1106.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",RT DOCUMENTARY (Copyright © 2019 - TeamBlue)
-http://rt-doc.secure.footprint.net/1101-inadv-qidx-1k_v5.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RT DOCUMENTARY (Copyright © 2019 - TeamBlue)
 https://rt-doc.secure.footprint.net/1101.m3u8
 #EXTINF:-1 group-title="CANAIS PORTUGAL",KURIAKOS TV (Copyright © 2019 - TeamBlue)
 http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
@@ -415,36 +299,18 @@ http://c2.manasat.com:1935/kcine/kcine3/TeamBlue.m3u8
 http://85.244.70.140:7000/play/a014
 #EXTINF:-1 group-title="CANAIS PORTUGAL",CACA & PESCA (Copyright © 2019 - TeamBlue)
 http://85.244.70.140:7000/play/a00p
-#EXTINF:-1 group-title="VARIEDADES",[COLOR red]//////////VARIEDADES//////////[/COLOR]
-http://23.23.1.3
 #EXTINF:-1 group-title="VARIEDADES",MTV CLIPES 1
 http://rtmp.one.by:1200
-#EXTINF:-1 group-title="VARIEDADES",VIVA
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2152.m3u8
-#EXTINF:-1 group-title="VARIEDADES",MULTISHOW
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2243.m3u8
-#EXTINF:-1 group-title="VARIEDADES",GNT
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/310
-#EXTINF:-1 group-title="VARIEDADES",TV CIDADE OESTE
-http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="VARIEDADES",SESC TV
 https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8?sts=st=1566330575~exp=1566337175~acl=/*~hmac=f9fb76a678025561462d6e21e8ea6a44591ab03626a1ed876f4e85246d74691c
 #EXTINF:-1 group-title="VARIEDADES",TV CINEC
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",REDE MINAS
-https://slbps-sambatech.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b954368.m3u8?sts=st=1544233573~exp=1544240173~acl=/*~hmac=11dde7f5431e3ecb21934044fd18a50e784446e834c6f532bb615f57011b3f10
 #EXTINF:-1 group-title="VARIEDADES",TV PANTANAL - MS
 https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1306488378.m3u8
 #EXTINF:-1 group-title="VARIEDADES",REDE RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",TRANSAMERICA TV
-rtmp://tvtransamerica.crossdigital.com.br/ponto2/transamerica2
-#EXTINF:-1 group-title="VARIEDADES",TV JAGUAR - CE
-https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="VARIEDADES",VH1 MEGAHITS
 http://stream.1music.hu/stream/1music.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",TV CIDADE OESTE RN
-http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="VARIEDADES",LIVRE TV - RN
 https://cdn.jmvstream.com/live/hls/lv_7134/LV7134_7pwaEVRpQ4.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="VARIEDADES",MASTER TV
@@ -473,40 +339,6 @@ http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?EDSONSOUSALIST
 http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="VARIEDADES",RETRO MUSIC HD
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="DOCUMENTARIOS",[COLOR red]//////////DOCUMENTARIOS//////////[/COLOR]
-http://23.23.1.4
-#EXTINF:-1 group-title="DOCUMENTARIOS",ARTE 1 SD
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/337
-#EXTINF:-1 group-title="DOCUMENTARIOS",ANIMAL PLANET
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/336
-#EXTINF:-1 group-title="DOCUMENTARIOS",CURTA! HD
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/341
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2316.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY TURBO
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2310.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",ID: INVESTIGAÇÃO DISCOVERY
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/302
-#EXTINF:-1 group-title="DOCUMENTARIOS",ID: INVESTIGAÇÃO DISCOVERY
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2254.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2129.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/13705.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALT
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2314.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY WORD
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/7443.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",DISCOVERY THEATER
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/7449.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIOS",FOOD NETWORK
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/342
-#EXTINF:-1 group-title="DOCUMENTARIOS",LIFETIME
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/345
-#EXTINF:-1 group-title="DOCUMENTARIOS",HISTORY HD
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/303
-#EXTINF:-1 group-title="DOCUMENTARIOS",H2
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/309
 #EXTINF:-1 group-title="DOCUMENTARIOS",Stephen Hawking e as Células-Tronco
 http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4
 #EXTINF:-1 group-title="DOCUMENTARIOS",O Sentido Da Vida Stephen Hawking
@@ -519,20 +351,6 @@ http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hi
 http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4
 #EXTINF:-1 group-title="DOCUMENTARIOS",Telescópio O universo revelado
 http://archive.org/download/Telescopio-2016/TELESC%c3%93PIO%20-%20O%20UNIVERSO%20REVELADO%20480p%20HDTV-Master.mp4
-#EXTINF:-1 group-title="NOTÍCIAS",[COLOR red]//////////NOTÍCIAS//////////[/COLOR]
-http://23.23.1.6
-#EXTINF:-1 group-title="NOTÍCIAS",RECORD NEWS
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b832512.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="NOTÍCIAS",RECORD NEWS HD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="NOTÍCIAS",RECORD NEWS - TV GUARÁ
-https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w391058116.m3u8
-#EXTINF:-1 group-title="NOTÍCIAS",BAND NEWS
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2333.m3u8
-#EXTINF:-1 group-title="NOTÍCIAS",GLOBO NEWS
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2274.m3u8
-#EXTINF:-1 group-title="NOTÍCIAS",GV NEWS
-http://173.236.10.10:1935/gvnews/gvnews/chunklist_w276861645.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="NOTÍCIAS",REDE MINAS
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="NOTÍCIAS",REDE MINAS
@@ -541,14 +359,10 @@ http://rtmp.cdn.upx.net.br/00084/myStream.sdp/chunklist_w1068978935.m3u8?EDSONSO
 http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="NOTÍCIAS",ALJAZEERA ENCLISH
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
-#EXTINF:-1 group-title="NOTÍCIAS",ABC NEWS - USA
-http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-b.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="NOTÍCIAS",BLOOMBERG TV  - USA
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="NOTÍCIAS",BLOOMBERG TV  HD- USA
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",CBS 47 - USA
-https://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/564k/index.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="NOTÍCIAS",CBSN NEWS SD - USA
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 #EXTINF:-1 group-title="NOTÍCIAS",CBSN NEWS HD - USA
@@ -577,88 +391,12 @@ http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8?EDSONSOUS
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="NOTÍCIAS",ESP: EXTREMADURA
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b664000_DVR.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="ESPORTES",[COLOR red]//////////ESPORTES//////////[/COLOR]
-http://23.23.1.7
 #EXTINF:-1 group-title="ESPORTES",ALL SPORTS
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?EDSONSOUSALIS
 #EXTINF:-1 group-title="ESPORTES",ALL SPORTS HD
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1192655349.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="ESPORTES",TV WEB GB ESPORTE
 http://stmv1.euroti.com.br:1935/radiowebgbesporte/radiowebgbesporte/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="ESPORTES",COMBATE
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/330
-#EXTINF:-1 group-title="ESPORTES",ESPORTE INTERATIVO BR SD
-https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/58121908685da2dd08de7ec5/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
-#EXTINF:-1 group-title="ESPORTES",ESPORTE INTERATIVO BR HD
-https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
-#EXTINF:-1 group-title="ESPORTES",EI MAXX SD
-https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
-#EXTINF:-1 group-title="ESPORTES",EI MAXX HD
-https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
-#EXTINF:-1 group-title="ESPORTES",EI MAXX 2 SD
-https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
-#EXTINF:-1 group-title="ESPORTES",EI MAXX 2 HD
-https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?EVRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
-#EXTINF:-1 group-title="ESPORTES",BAND SPORTS
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/333
-#EXTINF:-1 group-title="ESPORTES",ESPN BRASIL
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2301.m3u8
-#EXTINF:-1 group-title="ESPORTES",ESPN
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2303.m3u8
-#EXTINF:-1 group-title="ESPORTES",ESPN EXTRA
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b1835008.m3u8
-#EXTINF:-1 group-title="ESPORTES",ESPN + HD
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/7099.m3u8
-#EXTINF:-1 group-title="ESPORTES",ESPN LATINA
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1 group-title="ESPORTES",FOX SPORTS
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/314
-#EXTINF:-1 group-title="ESPORTES",FOX SPORTS HD
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2286.m3u8
-#EXTINF:-1 group-title="ESPORTES",FOX SPORTS 2
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/13759.m3u8
-#EXTINF:-1 group-title="ESPORTES",FOX SPORTS 2 HD
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/313
-#EXTINF:-1 group-title="ESPORTES",SPORTV
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/185
-#EXTINF:-1 group-title="ESPORTES",SPORTV HD
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2188.m3u8
-#EXTINF:-1 group-title="ESPORTES",SPORTV 2
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2187.m3u8
-#EXTINF:-1 group-title="ESPORTES",SPORTV 2
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/184
-#EXTINF:-1 group-title="ESPORTES",SPORTV 3
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2186.m3u8
-#EXTINF:-1 group-title="ESPORTES",SPORTV 3 HD
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/183
-#EXTINF:-1 group-title="ESPORTES",Premiere CLUBES
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/193
-#EXTINF:-1 group-title="ESPORTES",Premiere CLUBES
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2224.m3u8
-#EXTINF:-1 group-title="ESPORTES",Premiere 2
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2222.m3u8
-#EXTINF:-1 group-title="ESPORTES",Premiere 3
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2220.m3u8
-#EXTINF:-1 group-title="ESPORTES",Premiere 4
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2218.m3u8
-#EXTINF:-1 group-title="CANAIS INFANTIL",[COLOR red]//////////CANAIS INFANTIL//////////[/COLOR]
-http://23.23.1.9
-#EXTINF:-1 group-title="CANAIS INFANTIL",TV KID MAIS
-http://tv01.logicahost.com.br:1935/tvkidmais01/tvkidmais01/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAIS INFANTIL",BOOMERANG SD
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2328.m3u8
-#EXTINF:-1 group-title="CANAIS INFANTIL",CARTOON NETWORK SD
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/22269.m3u8
-#EXTINF:-1 group-title="CANAIS INFANTIL",DISNEY JUNIOR
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,e684993f245c481f1f1bb14b273256e3;base64np;-uribHdW7Nh31Zw!/amlst:-uoadWod6dlolRBm/chunklist_b2690048.m3u8
-#EXTINF:-1 group-title="CANAIS INFANTIL",DISNEY XD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,7f7978dabb948939a8a5b1b171ef599c;base64np;cyzcx3V5SZ4JJwc!/amlst:cywk3mgyTJ8WZ4s4/chunklist_b1089536.m3u8
-#EXTINF:-1 group-title="CANAIS INFANTIL",NICKELODEON SD
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/22228.m3u8
-#EXTINF:-1 group-title="CANAIS INFANTIL",NICK JR SD
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2233.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",[COLOR red]//////////FILMES E SÉRIES//////////[/COLOR]
-http://23.23.2.1
 #EXTINF:-1 group-title="FILMES E SÉRIES",24 HORAS
 http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="FILMES E SÉRIES",TV PANTANAL
@@ -677,95 +415,3 @@ http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?EDSONSOUSALIST
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="FILMES E SÉRIES",CAPITAL777
 http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="FILMES E SÉRIES",AMC
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2345.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",AXN
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/335
-#EXTINF:-1 group-title="FILMES E SÉRIES",AXN
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2338.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",BIS
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/332
-#EXTINF:-1 group-title="FILMES E SÉRIES",FOX
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/316
-#EXTINF:-1 group-title="FILMES E SÉRIES",FOX
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2291.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",FX
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/312
-#EXTINF:-1 group-title="FILMES E SÉRIES",FX
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2281.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO HD
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/306
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO HD
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2267.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO 2
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/308
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO 2
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2266.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO FAMILY
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/307
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO FAMILY
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2264.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO PLUS
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2261.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO SIGNATURE
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/304
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO SIGNATURE
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2258.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO +
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/305
-#EXTINF:-1 group-title="FILMES E SÉRIES",MAX PRIME
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/346
-#EXTINF:-1 group-title="FILMES E SÉRIES",MEGAPIX
-http://45.164.39.8:9000/play/syn-mega
-#EXTINF:-1 group-title="FILMES E SÉRIES",MEGAPIX
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/301
-#EXTINF:-1 group-title="FILMES E SÉRIES",SPACE
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/186
-#EXTINF:-1 group-title="FILMES E SÉRIES",SONY
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/331
-#EXTINF:-1 group-title="FILMES E SÉRIES",TCM
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/180
-#EXTINF:-1 group-title="FILMES E SÉRIES",TBS
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/181
-#EXTINF:-1 group-title="FILMES E SÉRIES",TNT
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2166.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",TNT SERIES
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2164.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",UNIVERSAL CHANNEL
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/182
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE PREMIUM
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2172.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE ACTION
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/7266.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE PIPOCA
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2174.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE FUN
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2176.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE TOUCH
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2170.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE CULT
-http://ssiptv.smartlista.org:8880/live/xbf8qgscenw/9az6emj7vwx/2122.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE PREMIUM
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/175
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE ACTION
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/175
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE PIPOCA
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/176
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE FUN
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/177
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE TOUCH
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/174
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE CULT
-http://iptvip.com:25461/p2Tlcukn6t/9ejrofnoiehriu43/178
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE PREMIUM
-http://45.164.39.8:9000/play/syn-tcpre
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE ACTION
-http://45.164.39.8:9000/play/syn-tcact
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE PIPOCA
-http://45.164.39.8:9000/play/syn-tcpip
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE FUN
-http://45.164.39.8:9000/play/syn-tcfun
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE TOUCH
-http://45.164.39.8:9000/play/syn-tctou
-#EXTINF:-1 group-title="FILMES E SÉRIES",TELECINE CULT
-http://45.164.39.8:9000/play/syn-tccul
