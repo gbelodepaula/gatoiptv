@@ -1,417 +1,2195 @@
 #EXTM3U
-#EXTINF:-1 group-title="CANAL ABERTO",SBT 208 canais
-https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",SBT - TV JANGADEIRO
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1019809414_b216000_sleng.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",SBT PE SD
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w662604996_b131000_sleng.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",SBT - PE | CARUARÚ
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",SBT GO HD
-https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w1278230418_b350000.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",SBT PI HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",SBT PI HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w155384117.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",RECORD ES
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?EDSONSOUSA_LIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV VITORIA - RECORD
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TVE BRASIL
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TVE BA HD
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV BRASIL 2
-http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/chunklist_b544768.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",TV MARAJOARA -  REDE BRASIL
-http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8?wowzasessionid=1233534265
-#EXTINF:-1 group-title="CANAL ABERTO",TV EDUCATIVA
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV GAZETA MA
-http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8?wowzasessionid=1554945197
-#EXTINF:-1 group-title="CANAL ABERTO",TV CULTURA HD
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV CULTURA PARAÍBA
-http://stream.tvitarare.com.br/hls/site/site_mid/index.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV CULTURA PARAÍBA HD
-http://stream.tvitarare.com.br/hls/site/site_hi/index.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV CULTURA MG HD
-https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1109885564.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV CULTURA MG
-http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV CULTURA PA
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",CAT TVE HD
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1186304523.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",CAT TVE HD
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV FUTURA PR
-http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV UP HD
-http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",TV UP HD
-http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",MUNDO TV HD
-https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w3722288.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",NBR
-http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",TV CÂMARA
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",AGRO BRASIL
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="CANAL ABERTO",AGRO CANAL
-https://5c49cd60dfe56.streamlock.net:6443/agrocanal/live/playlist.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",CONEXÃO BR
-https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w1731673664.m3u8
-#EXTINF:-1 group-title="CANAL ABERTO",CANAL DO BOI
-https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RTP 1 (Copyright © 2019 - TeamBlue)
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RTP 1 (Copyright © 2019 - TeamBlue)
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RTP 2 (Copyright © 2019 - TeamBlue)
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TVI (Copyright © 2019 - TeamBlue)
-http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RTP 3 (Copyright © 2019 - TeamBlue)
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RTP 3 (Copyright © 2019 - TeamBlue)
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TVI24 (Copyright © 2019 - TeamBlue)
-http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TVI24 (Copyright © 2019 - TeamBlue)
-http://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",SIC MULHER (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a00y
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RTP MEMORIA (Copyright © 2019 - TeamBlue)
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",SPORT TV 1 (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a035
-#EXTINF:-1 group-title="CANAIS PORTUGAL",SPORT TV 2 FHD (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a02t
-#EXTINF:-1 group-title="CANAIS PORTUGAL",SPORT TV 3 (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a02w
-#EXTINF:-1 group-title="CANAIS PORTUGAL",SPORT TV 4 (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a02y
-#EXTINF:-1 group-title="CANAIS PORTUGAL",REAL MADRID TV (Copyright © 2019 - TeamBlue)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",REAL MADRID TV (Copyright © 2019 - TeamBlue)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="CANAIS PORTUGAL",REAL MADRID TV (Copyright © 2019 - TeamBlue)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",REAL MADRID TV HD (Copyright © 2019 - TeamBlue)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",REAL MADRID TV HD (Copyright © 2019 - TeamBlue)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",REAL MADRID TV HD (Copyright © 2019 - TeamBlue)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DISNEY JUNIOR (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a015
-#EXTINF:-1 group-title="CANAIS PORTUGAL",PANDA BIGGS (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a013
-#EXTINF:-1 group-title="CANAIS PORTUGAL",NICKELODEON (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a00o
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TVI REALITY (Copyright © 2019 - TeamBlue)
-http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TVI REALITY (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a00x
-#EXTINF:-1 group-title="CANAIS PORTUGAL",MTV BASE (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a00t
-#EXTINF:-1 group-title="CANAIS PORTUGAL",VH1 EUROPE (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a012
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TRACE TOCA (Copyright © 2019 - TeamBlue)
-http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING CLASSIC (Copyright © 2019 - TeamBlue)
-https://www.djing.com/tv/classics.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING DANCE FLOOR MUSIC (Copyright © 2019 - TeamBlue)
-https://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING DANCE FLOOR MUSIC (Copyright © 2019 - TeamBlue)
-http://djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING DANCE FLOOR MUSIC (Copyright © 2019 - TeamBlue)
-http://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING ELECTRO ROCK (Copyright © 2019 - TeamBlue)
-https://www.djing.com/tv/s-28049-03-electro-rock.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING ELECTRO ROCK (Copyright © 2019 - TeamBlue)
-https://www.djing.com/tv/session_electro-rock.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING ELECTRO ROCK (Copyright © 2019 - TeamBlue)
-http://www.djing.com/tv/session_electro-rock.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING HITS (Copyright © 2019 - TeamBlue)
-https://www.djing.com/tv/hits.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING HITS (Copyright © 2019 - TeamBlue)
-http://www.djing.com/tv/hits.m3u8_
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING HITS (Copyright © 2019 - TeamBlue)
-http://www.djing.com/tv/hits.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING HOT HOT HOT (Copyright © 2019 - TeamBlue)
-https://www.djing.com/tv/h-01-fta.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING SUMMER VIBES (Copyright © 2019 - TeamBlue)
-https://www.djing.com/tv/s-28049-03-summer-vibes.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING SUMMER VIBES (Copyright © 2019 - TeamBlue)
-http://www.djing.com/tv/session_summer-vibes.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING SUMMER VIBES (Copyright © 2019 - TeamBlue)
-https://www.djing.com/tv/session_summer-vibes.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING ANIMATION (Copyright © 2019 - TeamBlue)
-https://www.djing.com/tv/animation.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING ANIMATION (Copyright © 2019 - TeamBlue)
-http://www.djing.com/tv/animation.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING FRENCH TOUCH (Copyright © 2019 - TeamBlue)
-http://www.djing.com/tv/session_french-touch.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING FRENCH TOUCH (Copyright © 2019 - TeamBlue)
-https://www.djing.com/tv/session_french-touch.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING UNDERGROUND (Copyright © 2019 - TeamBlue)
-http://www.djing.com/tv/underground.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING UNDERGROUND (Copyright © 2019 - TeamBlue)
-https://www.djing.com/tv/underground.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DJING UNDERGROUND (Copyright © 2019 - TeamBlue)
-http://djing.com/tv/underground.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",BEBLACK AFRICA (Copyright © 2019 - TeamBlue)
-http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",BEBLACK CARIBBEAN (Copyright © 2019 - TeamBlue)
-http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",BEBLACK CLASSIK (Copyright © 2019 - TeamBlue)
-http://ec.playmedia.fr/beblack/classik/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",BLAZE (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a011
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TLC (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a00z
-#EXTINF:-1 group-title="CANAIS PORTUGAL",FTV (Copyright © 2019 - TeamBlue)
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",BBC ENTERTAINMENT (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a00u
-#EXTINF:-1 group-title="CANAIS PORTUGAL",BLOOMBERG (Copyright © 2019 - TeamBlue)
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",BLOOMBERG (Copyright © 2019 - TeamBlue)
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",SKY NEWS (Copyright © 2019 - TeamBlue)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/02.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",SKY NEWS (Copyright © 2019 - TeamBlue)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",SKY NEWS (Copyright © 2019 - TeamBlue)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",SKY NEWS HD (Copyright © 2019 - TeamBlue)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",CNBC (Copyright © 2019 - TeamBlue)
-http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",CBS (Copyright © 2019 - TeamBlue)
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",CBS (Copyright © 2019 - TeamBlue)
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",CBS (Copyright © 2019 - TeamBlue)
-http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",CBS HD (Copyright © 2019 - TeamBlue)
-http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",CBS HD (Copyright © 2019 - TeamBlue)
-http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="CANAIS PORTUGAL",AL JAZEERA EN (Copyright © 2019 - TeamBlue)
-http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",AL JAZEERA EN (Copyright © 2019 - TeamBlue)
-http://english.streaming.aljazeera.net/aljazeera/english2/index255.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",AL JAZEERA EN (Copyright © 2019 - TeamBlue)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RAI NEWS 24 (Copyright © 2019 - TeamBlue)
-http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RAI NEWS 24 (Copyright © 2019 - TeamBlue)
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TVE 24h (Copyright © 2019 - TeamBlue)
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TVE 24h (Copyright © 2019 - TeamBlue)
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DW (English) (Copyright © 2019 - TeamBlue)
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DW (English) (Copyright © 2019 - TeamBlue)
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_3_av-p.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",DW (English) (Copyright © 2019 - TeamBlue)
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",FRANCE 24 EN (Copyright © 2019 - TeamBlue)
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",FRANCE 24 FR (Copyright © 2019 - TeamBlue)
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",I 24 NEWS FR (Copyright © 2019 - TeamBlue)
-https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",I 24 NEWS EN (Copyright © 2019 - TeamBlue)
-https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",Canal 180 (Copyright © 2019 - TeamBlue)
-http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RTP MADEIRA (Copyright © 2019 - TeamBlue)
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RTP ACORES (Copyright © 2019 - TeamBlue)
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",CANÇÃO NOVA (Copyright © 2019 - TeamBlue)
-https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/stream1.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",AR TV (Copyright © 2019 - TeamBlue)
-http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",AR TV (Copyright © 2019 - TeamBlue)
-http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",AR TV (Copyright © 2019 - TeamBlue)
-http://193.126.16.68:1935/livenlin4/2liveartvpub/chunklist_w30591610.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RTP AFRICA (Copyright © 2019 - TeamBlue)
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RTP AFRICA (Copyright © 2019 - TeamBlue)
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RTP INTERNACIONAL (Copyright © 2019 - TeamBlue)
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TV GALICIA (Copyright © 2019 - TeamBlue)
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TV5 MONDE (Copyright © 2019 - TeamBlue)
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TV5 MONDE (Copyright © 2019 - TeamBlue)
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TV5 MONDE (Copyright © 2019 - TeamBlue)
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",REDE TV! (Copyright © 2019 - TeamBlue)
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",REDE TV! (Copyright © 2019 - TeamBlue)
-http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",REDE TV! (Copyright © 2019 - TeamBlue)
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1096797278.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",REDE TV! HD (Copyright © 2019 - TeamBlue)
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w284009987.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",REDE TV! HD (Copyright © 2019 - TeamBlue)
-http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1379590905.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",REDE TV! HD (Copyright © 2019 - TeamBlue)
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",SBT (Copyright © 2019 - TeamBlue)
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w827923360_b216000_sleng.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",SBT (Copyright © 2019 - TeamBlue)
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",SBT (Copyright © 2019 - TeamBlue)
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w986790454_b216000_sleng.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",SBT HD (Copyright © 2019 - TeamBlue)
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",SBT HD (Copyright © 2019 - TeamBlue)
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",SBT HD (Copyright © 2019 - TeamBlue)
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RUSSIA TODAY (Copyright © 2019 - TeamBlue)
-https://rt-uk.secure.footprint.net/1106.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",RT DOCUMENTARY (Copyright © 2019 - TeamBlue)
-https://rt-doc.secure.footprint.net/1101.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",KURIAKOS TV (Copyright © 2019 - TeamBlue)
-http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",KURIAKOS KIDS (Copyright © 2019 - TeamBlue)
-http://c2.manasat.com:1935/kkids/kkids3/TeamBlue.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",KURIAKOS MUSIC (Copyright © 2019 - TeamBlue)
-http://c2.manasat.com:1935/kmusic/kmusic3/TeamBlue.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",KURIAKOS CINE (Copyright © 2019 - TeamBlue)
-http://c2.manasat.com:1935/kcine/kcine3/TeamBlue.m3u8
-#EXTINF:-1 group-title="CANAIS PORTUGAL",TOROS TV (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a014
-#EXTINF:-1 group-title="CANAIS PORTUGAL",CACA & PESCA (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a00p
-#EXTINF:-1 group-title="VARIEDADES",MTV CLIPES 1
-http://rtmp.one.by:1200
-#EXTINF:-1 group-title="VARIEDADES",SESC TV
-https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8?sts=st=1566330575~exp=1566337175~acl=/*~hmac=f9fb76a678025561462d6e21e8ea6a44591ab03626a1ed876f4e85246d74691c
-#EXTINF:-1 group-title="VARIEDADES",TV CINEC
-https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",TV PANTANAL - MS
-https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1306488378.m3u8
-#EXTINF:-1 group-title="VARIEDADES",REDE RC
-http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",VH1 MEGAHITS
-http://stream.1music.hu/stream/1music.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",LIVRE TV - RN
-https://cdn.jmvstream.com/live/hls/lv_7134/LV7134_7pwaEVRpQ4.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",MASTER TV
-http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",TOP TV
-http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",REDE METROPOLE
-http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w752051049.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",TV CLIMA
-http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",TV DIÁRIO DO SERTÃO - PARAÍBA
-http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",TV DIÁRIO DO SERTÃO - PB
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",TV DIÁRIO DO SERTÃO - PB
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES",TV CARIRI PB
-https://59f1cbe63db89.streamlock.net:1443/cariritv/_definst_/cariritv/chunklist_w199979731.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",TV MAR
-https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w783582179.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",TV CARUARU
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",TV MACEIÓ
-http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",ALPHA CHANNEL
-http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="VARIEDADES",RETRO MUSIC HD
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="DOCUMENTARIOS",Stephen Hawking e as Células-Tronco
-http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4
-#EXTINF:-1 group-title="DOCUMENTARIOS",O Sentido Da Vida Stephen Hawking
-http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4
-#EXTINF:-1 group-title="DOCUMENTARIOS",alem dos limites humanos - hipoxia
-http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/02%20-%20Frio%5bmvm%5d.mp4
-#EXTINF:-1 group-title="DOCUMENTARIOS",alem dos limites humanos -frio
-http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4
-#EXTINF:-1 group-title="DOCUMENTARIOS",alem dos limites humanos -tempo
-http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4
-#EXTINF:-1 group-title="DOCUMENTARIOS",Telescópio O universo revelado
-http://archive.org/download/Telescopio-2016/TELESC%c3%93PIO%20-%20O%20UNIVERSO%20REVELADO%20480p%20HDTV-Master.mp4
-#EXTINF:-1 group-title="NOTÍCIAS",REDE MINAS
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",REDE MINAS
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/chunklist_w1068978935.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",DW NEWS
-http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",ALJAZEERA ENCLISH
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
-#EXTINF:-1 group-title="NOTÍCIAS",BLOOMBERG TV  - USA
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",BLOOMBERG TV  HD- USA
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",CBSN NEWS SD - USA
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:-1 group-title="NOTÍCIAS",CBSN NEWS HD - USA
-http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",REDBULL TV - USA
-https://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_3360.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",WGN AMERICA - USA
-https://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="NOTÍCIAS",WGN NEWS CHICAGO - USA
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",SKY NEWS - USA
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",SKY LIFE TG24 - USA
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",TVW
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",TVW-2 HD
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",TV 538.
-https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",CANAL ONCE
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w776573390_b1300000_slesp.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",FRANCE 24 HD - FR
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",NHK WORLD
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="NOTÍCIAS",ESP: EXTREMADURA
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b664000_DVR.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="ESPORTES",ALL SPORTS
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?EDSONSOUSALIS
-#EXTINF:-1 group-title="ESPORTES",ALL SPORTS HD
-https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1192655349.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="ESPORTES",TV WEB GB ESPORTE
-http://stmv1.euroti.com.br:1935/radiowebgbesporte/radiowebgbesporte/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="FILMES E SÉRIES",24 HORAS
-http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="FILMES E SÉRIES",TV PANTANAL
-https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1320184666.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",TV DIGITAL BIRIGUI
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="FILMES E SÉRIES",CINE SKY
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="FILMES E SÉRIES",CINE FILMES 2
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
-#EXTINF:-1 group-title="FILMES E SÉRIES",CLASSIQUE TV
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="FILMES E SÉRIES",GOSPEL TV - FILMES
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="FILMES E SÉRIES",SÓ FILMES
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="FILMES E SÉRIES",CAPITAL777
-http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO MINAS FHD
+http://blackplay.vip:80/thiago2019/thiago2019/5138
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO MINAS HD
+http://blackplay.vip:80/thiago2019/thiago2019/5128
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO MINAS SD
+http://blackplay.vip:80/thiago2019/thiago2019/5129
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO MINAS SD ²
+http://blackplay.vip:80/thiago2019/thiago2019/43267
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO NSC TV FLORIANOPOLIS FHD
+http://blackplay.vip:80/thiago2019/thiago2019/25428
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO NSC TV FLORIANOPOLIS HD
+http://blackplay.vip:80/thiago2019/thiago2019/5124
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO NSC TV FLORIANÓPOLIS SD
+http://blackplay.vip:80/thiago2019/thiago2019/5125
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO RBS P. ALEGRE FHD
+http://blackplay.vip:80/thiago2019/thiago2019/25427
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO RBS P. ALEGRE HD
+http://blackplay.vip:80/thiago2019/thiago2019/5122
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO RBS P. ALEGRE SD
+http://blackplay.vip:80/thiago2019/thiago2019/5123
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO RPC CURITIBA HD
+http://blackplay.vip:80/thiago2019/thiago2019/5118
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO RPC CURITIBA SD
+http://blackplay.vip:80/thiago2019/thiago2019/5119
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO RPC CURITIBA SD ²
+http://blackplay.vip:80/thiago2019/thiago2019/56152
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV BAHIA HD
+http://blackplay.vip:80/thiago2019/thiago2019/5112
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV BAHIA SD
+http://blackplay.vip:80/thiago2019/thiago2019/5113
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV ANHANGUERA GO HD
+http://blackplay.vip:80/thiago2019/thiago2019/5114
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV ANHANGUERA GO SD
+http://blackplay.vip:80/thiago2019/thiago2019/5115
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV MIRANTE SÃO LUIS HD
+http://blackplay.vip:80/thiago2019/thiago2019/25423
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV MIRANTE SÃO LUIS SD
+http://blackplay.vip:80/thiago2019/thiago2019/25422
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV MORENA CAMPO GRANDE HD
+http://blackplay.vip:80/thiago2019/thiago2019/25420
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV MORENA CAMPO GRANDE SD
+http://blackplay.vip:80/thiago2019/thiago2019/25419
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV SERGIPE HD
+http://blackplay.vip:80/thiago2019/thiago2019/25432
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV SERGIPE SD
+http://blackplay.vip:80/thiago2019/thiago2019/25434
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV CLUBE TERESINA HD
+http://blackplay.vip:80/thiago2019/thiago2019/25438
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV CLUBE TERESINA SD
+http://blackplay.vip:80/thiago2019/thiago2019/25440
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV GAZETA ALAGOAS HD
+http://blackplay.vip:80/thiago2019/thiago2019/25415
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV GAZETA ALAGOAS SD
+http://blackplay.vip:80/thiago2019/thiago2019/25417
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV GAZETA VITÓRIA HD
+http://blackplay.vip:80/thiago2019/thiago2019/25435
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV GAZETA VITÓRIA SD
+http://blackplay.vip:80/thiago2019/thiago2019/25437
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV TEM BAURU SD
+http://blackplay.vip:80/thiago2019/thiago2019/5111
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV TEM BAURU SD ²
+http://blackplay.vip:80/thiago2019/thiago2019/25704
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV TEM SOROCABA SD
+http://blackplay.vip:80/thiago2019/thiago2019/5108
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV TRIBUNA SD
+http://blackplay.vip:80/thiago2019/thiago2019/25450
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV VERDES MARES SD
+http://blackplay.vip:80/thiago2019/thiago2019/25448
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV CENTRO AMÉRICA SD
+http://blackplay.vip:80/thiago2019/thiago2019/25411
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV LIBERAL BELÉM SD
+http://blackplay.vip:80/thiago2019/thiago2019/25410
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO TV GAZETA SUL ES HD
+http://blackplay.vip:80/thiago2019/thiago2019/52187
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO INTER TV CABUGI SD
+http://blackplay.vip:80/thiago2019/thiago2019/25407
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO VANGUARDA S.J.D.C. SD
+http://blackplay.vip:80/thiago2019/thiago2019/25449
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO VANGUARDA S.J.D.C. SD ²
+http://blackplay.vip:80/thiago2019/thiago2019/25707
+#EXTINF:-1 group-title="REDE GLOBO",GLOBO REDE AMAZÔNICA SD
+http://blackplay.vip:80/thiago2019/thiago2019/25409
+#EXTINF:-1 group-title="CANAIS ABERTOS",A FAZENDA 11 HD
+http://blackplay.vip:80/thiago2019/thiago2019/58638
+#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD TV SP FHD
+http://blackplay.vip:80/thiago2019/thiago2019/4972
+#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD TV SP HD
+http://blackplay.vip:80/thiago2019/thiago2019/4962
+#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD TV SP HD ²
+http://blackplay.vip:80/thiago2019/thiago2019/21089
+#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD TV SP SD ²
+http://blackplay.vip:80/thiago2019/thiago2019/21088
+#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD TV MG HD
+http://blackplay.vip:80/thiago2019/thiago2019/29849
+#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD TV MG SD
+http://blackplay.vip:80/thiago2019/thiago2019/29848
+#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD TV RJ FHD
+http://blackplay.vip:80/thiago2019/thiago2019/29854
+#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD TV RJ HD
+http://blackplay.vip:80/thiago2019/thiago2019/29850
+#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD TV RJ SD
+http://blackplay.vip:80/thiago2019/thiago2019/22949
+#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD TV BA HD
+http://blackplay.vip:80/thiago2019/thiago2019/45847
+#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD TV RS HD
+http://blackplay.vip:80/thiago2019/thiago2019/45843
+#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD TV RS SD
+http://blackplay.vip:80/thiago2019/thiago2019/45842
+#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD TV DF HD
+http://blackplay.vip:80/thiago2019/thiago2019/45845
+#EXTINF:-1 group-title="CANAIS ABERTOS",RECORD TV DF SD
+http://blackplay.vip:80/thiago2019/thiago2019/45844
+#EXTINF:-1 group-title="CANAIS ABERTOS",SBT SP SD
+http://blackplay.vip:80/thiago2019/thiago2019/4957
+#EXTINF:-1 group-title="CANAIS ABERTOS",SBT SP SD ²
+http://blackplay.vip:80/thiago2019/thiago2019/21084
+#EXTINF:-1 group-title="CANAIS ABERTOS",SBT TV CIDADE VERDE PI HD
+http://blackplay.vip:80/thiago2019/thiago2019/5971
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND SP FHD
+http://blackplay.vip:80/thiago2019/thiago2019/4973
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND SP HD
+http://blackplay.vip:80/thiago2019/thiago2019/4969
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND SP HD ²
+http://blackplay.vip:80/thiago2019/thiago2019/21095
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND SP SD
+http://blackplay.vip:80/thiago2019/thiago2019/4970
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND SP SD ²
+http://blackplay.vip:80/thiago2019/thiago2019/21094
+#EXTINF:-1 group-title="CANAIS ABERTOS",REDE TV SD
+http://blackplay.vip:80/thiago2019/thiago2019/4960
+#EXTINF:-1 group-title="CANAIS ABERTOS",REDE TV RS SD
+http://blackplay.vip:80/thiago2019/thiago2019/5954
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV CULTURA SP FHD
+http://blackplay.vip:80/thiago2019/thiago2019/25403
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV CULTURA SP HD
+http://blackplay.vip:80/thiago2019/thiago2019/22950
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV CULTURA HD ²
+http://blackplay.vip:80/thiago2019/thiago2019/56188
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV CULTURA SP SD
+http://blackplay.vip:80/thiago2019/thiago2019/29852
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV DIARIO FORTALEZA HD
+http://blackplay.vip:80/thiago2019/thiago2019/58310
+#EXTINF:-1 group-title="CANAIS ABERTOS",FUTURA HD ²
+http://blackplay.vip:80/thiago2019/thiago2019/56189
+#EXTINF:-1 group-title="CANAIS ABERTOS",FUTURA SD
+http://blackplay.vip:80/thiago2019/thiago2019/56142
+#EXTINF:-1 group-title="CANAIS ABERTOS",FUTURA TV UP SD
+http://blackplay.vip:80/thiago2019/thiago2019/22575
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",ANDAR MONTAR RODEIO - A VIRADA DE AMBERLEY
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56269.mp4
+#EXTINF:-1 group-title="FILMES: ROMANCE",A VIDA EM SI
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56268.mp4
+#EXTINF:-1 group-title="FILMES: ROMANCE",PÉROLA NO PARAÍSO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56267.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",OS CAUBÓIS DO APOCALIPSE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56266.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",OPERAÇÃO FRONTEIRA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56265.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",CRAZY TIPS - BUDAPESTE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56007.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",O QUEBRA CABEÇA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/55456.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",CADÁVER
+http://blackplay.vip:80/movie/thiago2019/thiago2019/55457.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",ROBIN HOOD - A ORIGEM
+http://blackplay.vip:80/movie/thiago2019/thiago2019/55435.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",DRONES
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54511.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",DE REPENTE UMA FAMÍLIA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54506.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",CREED II
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54509.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",COLETTE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54505.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",ZOO:UMA AMIZADE MAIOR QUE A VIDA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54229.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",UM HOMEM COMUM
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54227.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",PARQUE DO INFERNO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54217.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",PAPILLON
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54228.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",CAÇADORA DE GIGANTES
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54230.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",JOHNNY ENGLISH 3.0
+http://blackplay.vip:80/movie/thiago2019/thiago2019/53219.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",SUPER TIRAS 2
+http://blackplay.vip:80/movie/thiago2019/thiago2019/53180.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",O ÓDIO QUE VOCÊ SEMEIA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/53185.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",MANDY: SEDE DE VINGANÇA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/53181.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",HALLOWEEN
+http://blackplay.vip:80/movie/thiago2019/thiago2019/53186.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",ERA UMA VEZ UM DEADPOOL
+http://blackplay.vip:80/movie/thiago2019/thiago2019/53182.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",ÁRVORE DE SANGUE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/53184.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",ANIMAIS FANTÁSTICOS: OS CRIMES DE GRINDELWALD
+http://blackplay.vip:80/movie/thiago2019/thiago2019/53177.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",SIEMBAMBA: A CANÇÃO DO MAL
+http://blackplay.vip:80/movie/thiago2019/thiago2019/53157.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",O QUEBRA-NOZES E OS QUATRO REINOS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/53161.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",O LIVRO DE GÊNESIS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/53163.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",O FAVORITO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/53156.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",INTIMIDADE ENTRE ESTRANHOS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/53162.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",DUMPLIN
+http://blackplay.vip:80/movie/thiago2019/thiago2019/53155.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",CLOSE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/53154.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",SEQUESTRO RELÂMPAGO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/52771.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",O GRINCH
+http://blackplay.vip:80/movie/thiago2019/thiago2019/52751.mp4
+#EXTINF:-1 group-title="FILMES: ROMANCE",PODRES DE RICOS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51653.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",BOHEMIAN RHAPSODY
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51538.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",ENTREVISTA COM DEUS (2019)
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51540.mp4
+#EXTINF:-1 group-title="FILMES: ROMANCE",UMA RAZÃO PARA VIVER
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47507.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",UMA RAZÃO PARA VENCER
+http://blackplay.vip:80/movie/thiago2019/thiago2019/50974.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",UM PEQUENO FAVOR
+http://blackplay.vip:80/movie/thiago2019/thiago2019/50986.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",TUDO POR UM POPSTAR
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51527.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",TODO DIA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/48490.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",SOLO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51445.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",SLENDER MAN: PESADELO SEM ROSTO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51430.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",SEMENTES PODRES
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51435.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",QUANDO OS ANJOS DORMEM
+http://blackplay.vip:80/movie/thiago2019/thiago2019/48482.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",POLAR
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51446.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",POKÉMON - O FILME: O PODER DE TODOS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51425.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",PELO DIREITO DE SER FELIZ
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47963.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",OS DOMÉSTICOS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/48574.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",O TRANSTORNO DE CLARA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51506.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",O RETORNO DO DUENDE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47509.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",O PRIMEIRO HOMEM
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47978.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",O PREDADOR
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47497.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",O GRANDE CIRCO MÍSTICO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51488.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",O DOUTRINADOR
+http://blackplay.vip:80/movie/thiago2019/thiago2019/49379.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",O ANEL DO REI: A ÚLTIMA BATALHA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47511.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",NUNCA CONVIDE SEU EX
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47960.mp4
+#EXTINF:-1 group-title="FILMES: ROMANCE",NASCE UMA ESTRELA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/50966.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",NA CORDA BAMBA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/50976.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",MISSÃO CATMANDU : AS AVENTURAS DE NELLY E SIMON
+http://blackplay.vip:80/movie/thiago2019/thiago2019/48569.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",MILLENNIUM A GAROTA NA TEIA DE ARANHA (2019)
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51418.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",MEU PROFESSOR MINHA OBSESSÃO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/50984.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",MAUS MOMENTOS NO HOTEL ROYALE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51431.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",MARY E A FLOR DA FEITICEIRA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47959.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",MARA: O DEMÔNIO DO SONO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/48451.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",IRMÃO DE SANGUE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47502.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",IO - O ULTIMO NA TERRA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51348.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",ICEMAN 2 - O VIAJANTE DO TEMPO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51505.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",HOTEL ARTEMIS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47506.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",HALLOWEEN: A LENDA DE JACK
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47955.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",GODZILLA: O DEVORADOR DE PLANETAS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51429.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",FUGA DO HOSPÍCIO: A HISTÓRIA DE NELLIE BLY
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51489.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",EXTERMINADORES DO ALÉM CONTRA A LOIRA DO BANHEIRO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51417.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",ESTRANHA PRESENÇA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51347.mp4
+#EXTINF:-1 group-title="FILMES: ROMANCE",ENTÃO EU TE CONHECI
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51433.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",DRAGON BALL SUPER: BROLY
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51424.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",DESTRUIÇÃO LOS ANGELES
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51416.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",DELÍRIOS DO PASSADO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47508.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",CRÔ EM FAMÍLIA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/45741.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",CRIMES EM HAPPYTIME
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47965.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",COVIL DE LADROES
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47976.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",CORREDOR ASSOMBRADO (2019)
+http://blackplay.vip:80/movie/thiago2019/thiago2019/50971.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",CIRCUS KANE O CIRCO DOS HORRORES
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51415.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",BLACK MIRROR : BANDERSNATCH
+http://blackplay.vip:80/movie/thiago2019/thiago2019/48481.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",BIRD BOX
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47958.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",BETHANY
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51414.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",AS AVENTURAS DO PEQUENO SPIROU
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51412.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",APÓSTOLO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/48486.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",ABANDONADA : O MAL FOI ELEITO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/48485.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",A QUEDA DE BERLIM
+http://blackplay.vip:80/movie/thiago2019/thiago2019/48489.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",A NOIVA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/48491.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",A MELODIA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/47964.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",A LENDA DA PASSAGEM SECRETA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/51474.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",A BALADA DE BUSTER SCRUGGS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/42866.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",O FOTÓGRAFO DE MAUTHAUSEN
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54504.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",PELAS RUAS DE PARIS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54503.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",BEYOND THE SKY (LEG)
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54530.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",RASGA CORAÇÃO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54527.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",TERROR PROFUNDO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54529.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",THE DRUG KING
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54531.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",YONLU
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54528.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",A FAVORITA (LEG)
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54603.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",CRIANÇAS MALIGNAS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54602.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",GREEN BOOK: O GUIA (LEG)
+http://blackplay.vip:80/movie/thiago2019/thiago2019/54600.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",UM NOVO MUNDO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/55050.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",ELLE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/55080.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",O DESPERTAR DE UM ASSASSINO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/55046.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",PADDLETON
+http://blackplay.vip:80/movie/thiago2019/thiago2019/55047.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",WIFI RALPH - QUEBRANDO A INTERNET
+http://blackplay.vip:80/movie/thiago2019/thiago2019/55081.mp4
+#EXTINF:-1 group-title="FILMES: ROMANCE",AMOR EM LITTLE ITALY
+http://blackplay.vip:80/movie/thiago2019/thiago2019/55209.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",LUKAS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/55213.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",QUEM CANTARÁ SUAS CANÇÕES?
+http://blackplay.vip:80/movie/thiago2019/thiago2019/55210.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",LEAL
+http://blackplay.vip:80/movie/thiago2019/thiago2019/55461.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",MEGARROMÂNTICO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/55462.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",VELOCIDADE MORTAL
+http://blackplay.vip:80/movie/thiago2019/thiago2019/55460.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",AQUAMAN
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56102.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",MINHA VIDA EM MARTE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56609.mp4
+#EXTINF:-1 group-title="FILMES: ROMANCE",BIA (2.0)
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56611.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",JUSTIÇA ENTRE A LEI E A VINGANÇA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56614.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",MISSÃO - AMSTERDAM
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56613.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",OBSESSÃO PERIGOSA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56612.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",SUPERLOPEZ
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56616.mp4
+#EXTINF:-1 group-title="FILMES: LANÇAMENTOS",THE DIRT
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56615.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",UM MONSTRO NO CAMINHO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56610.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",ESTRADA SEM LEI
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56617.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",A QUÍMICA DO AMOR
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56627.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",SER TÃO VELHO CERRADO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56629.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",TERAPIA DE CASAIS PARA AMANTES
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56630.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",VISITAS NOTURNAS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56628.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",HOLMES E WATSON
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56664.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",NANCY DREW E A ESCADA SECRETA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56662.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",O MANICÔMIO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56663.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",A BABÁ
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56674.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",GUERRA CONTRA ALIENS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56670.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",LOJA DE UNICÓRNIOS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56671.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",RELAÇÕES DE FAMÍLIA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56672.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",TITO E OS PÁSSAROS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56673.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",O RETORNO DE MARY POPPINS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56679.mp4
+#EXTINF:-1 group-title="FILMES: LANÇAMENTOS",O SILÊNCIO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56678.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",QUEM VOCÊ LEVARIA PARA UMA ILHA DESERTA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56905.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",SE EU FOSSE UM HOMEM
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56904.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",STATUS UPDATE - PERFIL DOS SONHOS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57285.mp4
+#EXTINF:-1 group-title="FILMES: ROMANCE",O DATE PERFEITO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57284.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",CONTOS MACABROS 2
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57283.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",DESEJO FATAL
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57282.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",DRAGON BALL: EPISÓDIO DE BARDOCK
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57281.mp4
+#EXTINF:-1 group-title="FILMES: ROMANCE",ERA UMA VEZ UM PRINCIPE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57280.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",EU SOU MAIS EU
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57279.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",FREE SOLO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57278.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",GENTE QUE VAI E VOLTA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57277.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",GOLPE DE RISCO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57276.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",PRIVACIDADE VIOLADA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57275.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",SUPER MONSTROS - SUPER AMIGOS PARA SEMPRE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57274.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",SANTET - O FEITIÇO DO MAL
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57273.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",FASCINAÇÃO MORTAL - A VINGANÇA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57272.mp4
+#EXTINF:-1 group-title="FILMES: LANÇAMENTOS",RESGATE EM MALIBU
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57271.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",10x10
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57270.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",A MULA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57269.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",A ULTIMA RESISTENCIA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57268.mp4
+#EXTINF:-1 group-title="FILMES: COMÉDIA",MINHA IRMÃ ARRASA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57267.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",15 MINUTOS DE GUERRA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57266.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",A ILHA DA MORTE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57265.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",BALKAN LINE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57264.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",O AGENTE SECRETO DE BIXLER
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57263.mp4
+#EXTINF:-1 group-title="FILMES: LANÇAMENTOS",O BOM SAM
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57262.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",SPINNING MAN - EM BUSCA DA VERDADE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57261.mp4
+#EXTINF:-1 group-title="FILMES: LANÇAMENTOS",A GENTE SE VÊ ONTEM
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57260.mp4
+#EXTINF:-1 group-title="FILMES: DRAMA/RELIGIOSO",VIDRO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57286.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",TOY STORY
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57414.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",TOY STORY 2
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57415.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",Toy Story 3
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57416.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",TOY STORY DE TERROR
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57417.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",TOY STORY: ESQUECIDOS PELO TEMPO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57418.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",COMO TREINAR O SEU DRAGÃO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57419.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",COMO TREINAR O SEU DRAGÃO 2
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57420.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",AS AVENTURAS DE OZZY
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57421.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",ENCANTADO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57422.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",HOTEL TRANSILVANIA 3
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57423.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",MONSTROS SA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57424.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",PROCURANDO DORY
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57425.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",A ESTRELA DE BELEM
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57426.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",FROZEN
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57427.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",MEU MALVADO FAVORITO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57428.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",MEU MALVADO FAVORITO 2
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57429.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",MEU MALVADO FAVORITO 3
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57430.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",LEGO BATMAN - O FILME
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57431.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",PE PEQUENO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57432.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",EMOJI - O FILME
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57433.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",O REI LEÃO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57434.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",O TOURO FERDINANDO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57435.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",OS INCRIVEIS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57436.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",OS INCRIVEIS 2
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57437.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",MOANA - UM MAR DE AVENTURAS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57438.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",O PODEROSO CHEFINHO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57439.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",PICA PAU - O FILME
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57440.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",SING - QUEM CANTA SEUS MALES ESPANTA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57441.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",TROLLS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57442.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",TROLLS - VAMOS FESTEJAR
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57443.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",A ABELHINHA MAYA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/56940.mp4
+#EXTINF:-1 group-title="FILMES: INFANTIS",COMO TREINAR SEU DRAGÃO 3
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57250.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",OS MERCENÁRIOS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57475.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",OS MERCENÁRIOS 2
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57476.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",OS MERCENÁRIOS 3
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57477.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",MISSÃO IMPOSSÍVEL
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57469.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",MISSÃO IMPOSSÍVEL 2
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57470.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",MISSÃO IMPOSSÍVEL 3
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57471.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",MISSÃO IMPOSSÍVEL: EFEITO FALLOUT
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57474.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",MISSÃO IMPOSSÍVEL: NAÇÃO SECRETA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57473.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",MISSÃO IMPOSSÍVEL: PROTOCOLO FANTASMA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57472.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",REI ARTHUR: A LENDA DA ESPADA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57468.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",MOTOQUEIROS SELVAGENS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57467.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",O PROTETOR
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57465.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",O PROTETOR 2
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57466.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",NO OLHO DO FURACÃO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57464.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",OS INFILTRADOS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57463.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",TERREMOTO: A FALHA DE SAN ANDREAS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57462.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",STALLONE : COBRA (1986)
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57461.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",O JUSTICEIRO: ESTRADA DO CAOS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57460.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",OS CONDENADOS 2
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57459.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",ROTA DE FUGA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57457.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",ROTA DE FUGA 2: HADES
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57458.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",JOHN WICK: DE VOLTA AO JOGO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57455.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",JOHN WICK: UM NOVO DIA PARA MATAR
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57456.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",VELOZES E FURIOSOS 4
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57449.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",VELOZES E FURIOSOS 5 - OPERAÇÃO RIO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57450.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",VELOZES E FURIOSOS 6
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57451.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",VELOZES E FURIOSOS 7
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57452.mp4
+#EXTINF:-1 group-title="FILMES: AÇÃO/AVENTURA",VELOZES E FURIOSOS 8
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57453.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",O CHAMADO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57662.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",O CHAMADO 2
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57663.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",O CHAMADO 3
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57664.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",NÃO ADIANTA FUGIR
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57666.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",HEREDITÁRIO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57667.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",A NOIVA DE CHUCKY
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57670.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",O CULTO DE CHUCKY
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57669.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",O FILHO DE CHUCKY
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57671.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",VERDADE OU DESAFIO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57672.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",TRAFFIK: LIBERDADE ROUBADA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57673.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",STEPHANIE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57674.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",JOGOS MORTAIS
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57675.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",JOGOS MORTAIS II
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57676.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",JOGOS MORTAIS III
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57677.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",JOGOS MORTAIS IV
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57678.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",JOGOS MORTAIS JIGSAW
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57681.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",JOGOS MORTAIS V
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57679.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",O ATAQUE DOS VERMES MALDITOS 5: LINHAS DE SANGUE
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57687.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",O ATAQUE DOS VERMES MALDITOS 6: UM DIA NO INFERNO
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57688.mp4
+#EXTINF:-1 group-title="FILMES: TERROR/SUSPENSE",OS ESTRANHOS: CAÇADA NOTURNA
+http://blackplay.vip:80/movie/thiago2019/thiago2019/57691.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S03 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/17854.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S03 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/17855.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S03 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/17856.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S03 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/17857.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S03 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/17858.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S03 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/17859.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S04 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/17877.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S04 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/17878.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S04 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/17879.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S04 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/17880.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S04 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/17881.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S04 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/17882.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S04 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/17883.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/17884.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/17885.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/17886.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/17887.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/17888.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/17889.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/17890.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/17891.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/17892.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/17893.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/17894.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/17895.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/17896.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/17897.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/17898.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S05 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/17899.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/17900.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/17901.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/17902.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/17903.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/17904.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/17905.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/17906.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/17907.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/17908.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/17909.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/17910.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/17911.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/17912.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/17913.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/17914.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S06 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/17915.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/17916.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/17917.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/17918.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/17919.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/17920.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/17921.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/17922.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/17923.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/17924.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/17925.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/17926.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/17927.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/17928.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/17929.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/17930.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S07 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/17931.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/17932.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/17933.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/17934.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/17935.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/17936.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/17937.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/17938.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/17939.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/17940.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/17941.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/17942.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/17943.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/17944.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/17945.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/17946.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S08 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/17947.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/35624.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/35625.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/35626.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/35627.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/42541.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/42734.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/49381.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/49382.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/52753.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/54209.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/55078.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/56702.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/56703.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/56704.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/56705.mp4
+#EXTINF:-1 group-title="SERIE: THE WALKING DEAD",THE WALKING DEAD S09 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/56706.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S01 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/22212.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S01 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/22213.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S01 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/22214.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S01 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/22215.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S01 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/22216.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S01 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/22217.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S01 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/22218.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S01 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/22219.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S01 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/22220.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S01 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/22221.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S01 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/22222.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S01 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/22223.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S01 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/22224.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S02 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/22225.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S02 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/22226.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S02 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/22227.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S02 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/22228.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S02 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/22229.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S02 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/22230.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S02 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/22231.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S02 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/22232.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S02 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/22233.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S02 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/22234.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S02 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/22235.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S02 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/22236.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S02 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/22237.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S03 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/22238.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S03 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/22239.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S03 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/22240.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S03 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/22241.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S03 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/22242.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S03 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/22243.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S03 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/22244.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S03 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/22245.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S03 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/22246.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S03 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/22247.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S03 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/22248.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S03 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/22249.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S03 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/22250.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S04 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/22251.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S04 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/22252.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S04 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/22253.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S04 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/22254.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S04 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/22255.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S04 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/22256.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S04 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/22257.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S04 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/22258.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S04 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/22259.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S04 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/22260.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S04 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/22262.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S04 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/22263.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S04 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/22264.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S05 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/22265.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S05 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/22266.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S05 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/22267.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S05 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/22268.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S05 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/22269.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S05 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/22270.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S05 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/22271.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S05 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/22272.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S05 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/22273.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S05 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/22274.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S05 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/22275.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S05 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/22276.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S05 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/22277.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S06 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/52427.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S06 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/52428.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S06 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/52429.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S06 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/52430.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S06 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/52431.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S06 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/52432.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S06 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/52433.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S06 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/52434.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S06 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/52435.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S06 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/52436.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S06 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/52437.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S06 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/52438.mp4
+#EXTINF:-1 group-title="SERIE: ORANGE IS THE NEW BLACK",ORANGE IS THE NEW BLACK S06 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/52439.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/56202.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/56203.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/56204.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/56205.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/56206.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/56207.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/56208.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/56209.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/56210.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/56211.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/56212.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/56213.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/56214.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/56215.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/56216.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/56217.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/56218.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S01 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/56219.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S02 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/56220.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S02 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/56221.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S02 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/56222.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S02 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/56223.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S02 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/56224.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S02 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/56225.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S02 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/56226.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S02 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/56227.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S02 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/56228.mp4
+#EXTINF:-1 group-title="SERIE: THE GOOD DOCTOR",THE GOOD DOCTOR S02 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/56229.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/30394.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/30395.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/30396.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/30397.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/30398.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/30399.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/30400.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/30401.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/30402.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/30403.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/30404.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/30405.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/30406.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/30407.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/30408.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/30409.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/30410.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/30411.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/30412.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/30413.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/30414.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/30415.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S01 E23
+http://blackplay.vip:80/series/thiago2019/thiago2019/30416.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/30417.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/30418.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/30419.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/30420.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/30421.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/30422.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/30423.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/30424.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/30425.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/30426.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/30427.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/30428.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/30429.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/30430.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/30431.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/30432.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/30433.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/30434.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/30435.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/30436.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/30437.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/30438.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S02 E23
+http://blackplay.vip:80/series/thiago2019/thiago2019/30439.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/30440.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/30441.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/30442.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/30443.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/30444.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/30448.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/30449.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/30450.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/30451.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/30452.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/30453.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/30454.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/30455.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/30456.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/30459.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/30460.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/30461.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S03 E23
+http://blackplay.vip:80/series/thiago2019/thiago2019/30462.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S04 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/30463.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S04 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/30464.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S04 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/30465.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S04 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/30466.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S04 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/30467.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S04 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/30468.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S04 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/30470.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S04 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/30472.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S04 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/30475.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S04 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/30476.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S04 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/30477.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S04 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/30478.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S04 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/30480.mp4
+#EXTINF:-1 group-title="SERIE: ARROW",ARROW S04 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/30481.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S07 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/34307.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S07 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/34308.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S07 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/34309.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S07 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/34310.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S07 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/34311.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S07 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/34312.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S07 E23
+http://blackplay.vip:80/series/thiago2019/thiago2019/34313.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S08 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/34330.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S08 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/34332.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S08 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/34333.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S08 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/34334.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S08 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/34335.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S08 E23
+http://blackplay.vip:80/series/thiago2019/thiago2019/34336.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/34337.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/34338.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/34339.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/34340.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/34341.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/34342.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/34343.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/34345.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/34346.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/34347.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/34348.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/34349.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/34350.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/34351.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/34352.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/34353.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/34354.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/34355.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/34356.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/34357.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/34358.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S09 E23
+http://blackplay.vip:80/series/thiago2019/thiago2019/34359.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/34360.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/34361.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/34362.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/34363.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/34364.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/34365.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/34366.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/34367.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/34368.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/34369.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/34370.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/34371.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/34372.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/34373.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/34374.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/34375.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/34376.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/34377.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/34378.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/34379.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/34380.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/34381.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S10 E23
+http://blackplay.vip:80/series/thiago2019/thiago2019/34382.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/34383.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/34384.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/34385.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/34386.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/34387.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/34388.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/34389.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/34390.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/34391.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/34392.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/34393.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/34394.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/34395.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/34396.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/34397.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/34398.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/34399.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/34400.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/34401.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/34402.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/34403.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/34404.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S11 E23
+http://blackplay.vip:80/series/thiago2019/thiago2019/34405.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/34406.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/34407.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/34408.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/34409.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/34410.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/34411.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/34412.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/34413.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/34414.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/34415.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/34416.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/34417.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/34418.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/34419.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/34420.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/34421.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/34422.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/34423.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/34424.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/34425.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/34426.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/34427.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S12 E23
+http://blackplay.vip:80/series/thiago2019/thiago2019/34428.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/34429.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/34430.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/34431.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/34432.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/34433.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/34434.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/34435.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/34436.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/34437.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/34438.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/34439.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/34440.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/34441.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/34442.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/34443.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/34444.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/34445.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/34446.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/34447.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/34448.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/34449.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/34450.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S13 E23
+http://blackplay.vip:80/series/thiago2019/thiago2019/34451.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/52406.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/52407.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/52408.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/52409.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/52410.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/52411.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/52412.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/52413.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/52414.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/52415.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/52416.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/52754.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/56634.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/56635.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/56636.mp4
+#EXTINF:-1 group-title="SERIE: SUPERNATURAL",SUPERNATURAL S14 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/56743.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S01 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/34455.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S01 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/34456.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S01 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/34457.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S01 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/34458.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S01 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/34459.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S01 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/34460.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S01 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/34461.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S01 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/34462.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S01 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/34463.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S01 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/34464.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S01 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/34465.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S01 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/34466.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/34467.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/34468.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/34469.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/34470.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/34471.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/34472.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/34473.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/34474.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/34475.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/34476.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/34477.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/34478.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/34479.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/34480.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/34481.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S02 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/34482.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/34483.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/34484.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/34485.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/34486.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/34487.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/34488.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/34489.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/34490.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/34491.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/34492.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/34493.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/34494.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/34495.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/34496.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/34497.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S03 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/34498.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/34499.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/34500.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/34501.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/34502.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/34503.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/34504.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/34505.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/34506.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/34507.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/34508.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/34509.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/34510.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/34511.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/34512.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/34513.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S04 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/34514.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/34515.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/34516.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/34517.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/34518.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/34519.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/34520.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/34521.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/34522.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/34523.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/34524.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/34525.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/34526.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/34527.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/34528.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/34529.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S05 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/34530.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S06 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/34531.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S06 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/34532.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S06 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/34536.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S06 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/34537.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S06 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/34538.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S06 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/34539.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S06 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/34540.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S06 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/34541.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S06 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/34542.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S06 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/34543.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S06 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/34544.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S06 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/34545.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S07 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/34548.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S07 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/34549.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S07 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/34550.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S07 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/34551.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S07 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/34552.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S07 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/34553.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S07 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/34554.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S07 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/34555.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S07 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/34556.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S07 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/34557.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S07 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/34558.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S07 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/34559.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S07 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/34560.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S07 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/34561.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S07 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/34562.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S08 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/34564.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S08 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/34567.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S08 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/34570.mp4
+#EXTINF:-1 group-title="SERIE: SUITS",SUITS S08 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/34571.mp4
+#EXTINF:-1 group-title="SERIE: SMALVILLE",SMALLVILLE S10 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/51893.mp4
+#EXTINF:-1 group-title="SERIE: SMALVILLE",SMALLVILLE S10 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/51894.mp4
+#EXTINF:-1 group-title="SERIE: SMALVILLE",SMALLVILLE S10 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/51895.mp4
+#EXTINF:-1 group-title="SERIE: SMALVILLE",SMALLVILLE S10 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/51896.mp4
+#EXTINF:-1 group-title="SERIE: SMALVILLE",SMALLVILLE S10 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/51897.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/51928.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/51952.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/51953.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/51954.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/51955.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/51956.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/51935.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/51936.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/51959.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/51960.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/51961.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/51962.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/51941.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/51942.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/51943.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S01 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/51944.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/52440.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/52441.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/52597.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/52598.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/52599.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/52600.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/52446.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/52447.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/52448.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/52449.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/52605.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/52606.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/52452.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/52453.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/52454.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/52610.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/52611.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/52612.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/52613.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/52614.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/52615.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/52461.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E23
+http://blackplay.vip:80/series/thiago2019/thiago2019/52617.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S02 E24
+http://blackplay.vip:80/series/thiago2019/thiago2019/52618.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/52619.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/52620.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/52621.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/52467.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/52468.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/52470.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/52471.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/52472.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/52628.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/52629.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/52475.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/52631.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/52632.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/52478.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/52479.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/52635.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/52636.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/52637.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/52483.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/52639.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/52485.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E23
+http://blackplay.vip:80/series/thiago2019/thiago2019/52486.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S03 E24
+http://blackplay.vip:80/series/thiago2019/thiago2019/52487.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/52643.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/52489.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/52490.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/52646.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/52492.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/52493.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/52494.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/52650.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/52496.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/52497.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/52498.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/52499.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/52500.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/52656.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/52657.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S04 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/52658.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/52659.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/52660.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/52506.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/52507.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/52663.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/52509.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/52665.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/52511.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/52512.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/52513.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/52669.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/52515.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/52671.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/52517.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/52518.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/52519.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/52675.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/52676.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/52677.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/52678.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/52679.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/52525.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E23
+http://blackplay.vip:80/series/thiago2019/thiago2019/52526.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S05 E24
+http://blackplay.vip:80/series/thiago2019/thiago2019/52527.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/52528.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/52529.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/52530.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/52531.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/52687.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/52688.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/52534.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/52690.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/52691.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/52692.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/52693.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/52539.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/52695.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/52696.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/52697.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/52698.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/52700.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S06 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/52549.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/52550.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/52551.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/52707.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/52708.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/52709.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/52555.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/52556.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/52712.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/52558.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/52714.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/52560.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/52716.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/52717.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/52563.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/52564.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/52565.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/52566.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/52722.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/52723.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/52724.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/52570.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/52571.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S07 E23
+http://blackplay.vip:80/series/thiago2019/thiago2019/52572.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/52573.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/52729.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/52730.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/52731.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/52577.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/52578.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/52579.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/52580.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/52581.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/52737.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/52738.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/52739.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/52740.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/52741.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/52742.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/52743.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/52589.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/52590.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/52591.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/52747.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/52593.mp4
+#EXTINF:-1 group-title="SERIE: DR. HOUSE",DR. HOUSE S08 E22
+http://blackplay.vip:80/series/thiago2019/thiago2019/52594.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S01 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/53280.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S01 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/53281.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S01 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/53282.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S01 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/53283.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S01 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/53284.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S01 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/53285.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S01 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/53286.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S01 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/53287.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S01 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/53288.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S01 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/53289.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S02 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/53290.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S02 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/53291.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S02 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/53292.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S02 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/53293.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S02 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/53294.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S02 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/53295.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S02 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/53296.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S02 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/53297.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S02 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/53298.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S02 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/53299.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S03 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/53300.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S03 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/53301.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S03 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/53302.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S03 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/53303.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S03 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/53304.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S03 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/53305.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S03 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/53306.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S03 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/53307.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S03 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/53308.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S03 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/53309.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S04 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/53310.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S04 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/53311.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S04 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/53312.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S04 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/53313.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S04 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/53314.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S04 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/53315.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S04 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/53316.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S04 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/53317.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S04 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/53318.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S04 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/53319.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S05 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/53320.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S05 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/53321.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S05 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/53322.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S05 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/53323.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S05 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/53327.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S05 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/53328.mp4
+#EXTINF:-1 group-title="SERIE: BATES MOTEL",BATES MOTEL S05 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/53329.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E01
+http://blackplay.vip:80/series/thiago2019/thiago2019/55263.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/55264.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E03
+http://blackplay.vip:80/series/thiago2019/thiago2019/55265.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/55266.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E05
+http://blackplay.vip:80/series/thiago2019/thiago2019/55267.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/55268.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/55269.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/55270.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E11
+http://blackplay.vip:80/series/thiago2019/thiago2019/55273.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/55274.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/55275.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E14
+http://blackplay.vip:80/series/thiago2019/thiago2019/55276.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E15
+http://blackplay.vip:80/series/thiago2019/thiago2019/55277.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E16
+http://blackplay.vip:80/series/thiago2019/thiago2019/55278.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E17
+http://blackplay.vip:80/series/thiago2019/thiago2019/55279.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E18
+http://blackplay.vip:80/series/thiago2019/thiago2019/55280.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E19
+http://blackplay.vip:80/series/thiago2019/thiago2019/55281.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E20
+http://blackplay.vip:80/series/thiago2019/thiago2019/55282.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S01 E21
+http://blackplay.vip:80/series/thiago2019/thiago2019/55283.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S02 E02
+http://blackplay.vip:80/series/thiago2019/thiago2019/55286.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S02 E04
+http://blackplay.vip:80/series/thiago2019/thiago2019/55288.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S02 E06
+http://blackplay.vip:80/series/thiago2019/thiago2019/55290.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S02 E07
+http://blackplay.vip:80/series/thiago2019/thiago2019/55291.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S02 E08
+http://blackplay.vip:80/series/thiago2019/thiago2019/55292.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S02 E09
+http://blackplay.vip:80/series/thiago2019/thiago2019/55293.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S02 E10
+http://blackplay.vip:80/series/thiago2019/thiago2019/55294.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S02 E12
+http://blackplay.vip:80/series/thiago2019/thiago2019/55296.mp4
+#EXTINF:-1 group-title="SERIE: THE VAMPIRE DIARIES",THE VAMPIRE DIARIES S02 E13
+http://blackplay.vip:80/series/thiago2019/thiago2019/55297.mp4
